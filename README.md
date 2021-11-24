@@ -1,2 +1,2 @@
 # GitCouse
-Coursera course - Introduction to Git and GitHub
+Coursera course -{name} Introduction to Git and GitHub
